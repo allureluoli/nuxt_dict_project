@@ -1,0 +1,1 @@
+# nuxt_dict_project
